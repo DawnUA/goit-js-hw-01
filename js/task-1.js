@@ -1,5 +1,6 @@
+"use strict";
+
 function makeTransaction(quantity, pricePerDroid) {
-  "use strict";
   console.log(5, 3000);
 }
 
